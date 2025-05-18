@@ -26,4 +26,18 @@ Built with Python, visualized with love.
 ---
 
 ## 📁 Project Structure
-<pre><code> ``` . ├── data/ # Real estate dataset (from UCI) ├── figures/ # Visualizations ├── report/ # Final project report ├── analysis.ipynb # Core notebook ├── requirements.txt # Python dependencies ├── .gitignore # Git ignore rules └── README.md # You are here ``` --- ## 📸 Sample Visualizations | Predicted vs Actual | Posterior Predictive Check | |---------------------|----------------------------| | ![](figures/figure1.png) | ![](figures/figure3.png) | --- ## 🚀 Getting Started ```bash # Clone the repo git clone https://github.com/JW35711/Bayesian-housing-price-prediction.git # Install dependencies pip install -r requirements.txt # Run the notebook jupyter notebook analysis.ipynb ``` --- ## 📚 Data Source > **Real estate valuation data set** > UCI Machine Learning Repository > https://archive.ics.uci.edu/dataset/501 --- ## 🧠 Author Built by **Zijie Wang** With Huan Li Course: *Bayesian Statistics & Data Analysis* --- ## ✨ License For academic and learning use only. </code></pre>
+
+- `data/` — Real estate dataset from UCI
+- `figures/` — Generated visualizations
+- `report/` — Final PDF report
+- `analysis.ipynb` — Main notebook
+- `requirements.txt` — Dependencies
+- `.gitignore` — Git exclusion rules
+
+---
+
+## 📚 Data Source
+
+UCI Machine Learning Repository:  
+👉 [Real estate valuation data set](https://archive.ics.uci.edu/dataset/501/real+estate+valuation+data+set)
+
