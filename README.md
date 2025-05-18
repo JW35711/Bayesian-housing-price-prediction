@@ -2,8 +2,6 @@
 
 This project applies **Bayesian Linear Regression** to predict housing unit prices in Taipei, Taiwan, using real-world data. Beyond point predictions, it captures **uncertainty** through credible intervals and posterior predictive checks — providing a complete probabilistic view.
 
-Built with Python, visualized with love.
-
 ---
 
 ## 🔍 Project Overview
