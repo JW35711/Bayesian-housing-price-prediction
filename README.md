@@ -39,5 +39,5 @@ Built with Python, visualized with love.
 ## 📚 Data Source
 
 UCI Machine Learning Repository:  
-👉 [Real estate valuation data set](https://archive.ics.uci.edu/dataset/501/real+estate+valuation+data+set)
+👉 [Real estate valuation data set](https://archive.ics.uci.edu/dataset/477/real+estate+valuation)
 
